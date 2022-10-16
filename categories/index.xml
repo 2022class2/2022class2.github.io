@@ -1,15 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Categories - Category - My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Categories - Category - My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 13:17:21 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
-  <title>draft</title>
-  <link>http://example.org/categories/draft/</link>
-  <pubDate>Sun, 16 Oct 2022 13:17:21 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>http://example.org/categories/draft/</guid>
-  <description><![CDATA[]]></description>
+    <channel>
+        <title>Categories - Category - My New Hugo Site</title>
+        <link>http://example.org/categories/</link>
+        <description>Categories - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 13:17:21 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>文艺活动</title>
+    <link>http://example.org/categories/%E6%96%87%E8%89%BA%E6%B4%BB%E5%8A%A8/</link>
+    <pubDate>Sun, 16 Oct 2022 13:17:21 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/%E6%96%87%E8%89%BA%E6%B4%BB%E5%8A%A8/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>活动推荐</title>
+    <link>http://example.org/categories/%E6%B4%BB%E5%8A%A8%E6%8E%A8%E8%8D%90/</link>
+    <pubDate>Sun, 16 Oct 2022 13:17:21 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/%E6%B4%BB%E5%8A%A8%E6%8E%A8%E8%8D%90/</guid>
+    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>
